@@ -54,8 +54,8 @@ test("Try async/await", async () => {
 
 //Specials functions
 
-afterEach(() => console.log("After of each try"))
+/* afterEach(() => console.log("After of each try"))
 afterAll(() => console.log("After of all trys"))
 
 beforeEach(() => console.log("Before of each try"))
-beforeAll(() => console.log("Before of all try"))
+beforeAll(() => console.log("Before of all try")) */
